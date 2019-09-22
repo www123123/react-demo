@@ -4,7 +4,8 @@ export default {
   component: require('COMPONENT/App').default,
   
   indexRoute: {
-    component: require('COMPONENT/Welcome').default
+    // component: require('COMPONENT/Welcome').default
+    component: require('COMPONENT/demo/index').default
   },
   
   childRoutes: [
