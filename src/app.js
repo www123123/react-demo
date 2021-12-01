@@ -19,7 +19,7 @@ if (__DEV__ && __WHY_DID_YOU_UPDATE__) {
   whyDidYouUpdate(React)
 }
 if (__DEV__) {
-  console.info('[当前环境] 开发环境')
+  console.info('[当前环境] 开发环境1')
 }
 if (__PROD__) {
   console.info('[当前环境] 生产环境')
